@@ -1,3 +1,11 @@
+Este proyecto es el trabajo final de la asignatura Usabilidad y Accesibilidad.
+Es una aplicación web para la puesta en común de apuntes, información y ayuda entre alumnos de la Facultad de Ingeniería informática de la ULL. 
+Las tecnologías que hemos usado para llevar a cabo la página web son las siguientes:
+HTML, CSS, java script.
+Materialize
+WAI-ARIA
+Las páginas que hemos hecho son: pract3.html (página principal), horarios.html, chat.html, chat.html y ayuda.html.
+
 ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif)
 ===========
 
